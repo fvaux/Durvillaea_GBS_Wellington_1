@@ -1,0 +1,31 @@
+PLINK v1.90b6.16 64-bit (19 Feb 2020)
+Options in effect:
+  --allow-extra-chr
+  --file uplift-1-p4-p2-r80-1.plink
+  --ld-window-r2 0.8
+  --out ld-uplift-1-p4-p2-r80-1
+  --r2
+
+Hostname: wbn102
+Working directory: /scale_wlg_nobackup/filesets/nobackup/uoo02915/PLINK
+Start time: Fri Mar 19 13:14:47 2021
+
+Random number seed: 1616112887
+128824 MB RAM detected; reserving 64412 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (7799 variants, 131 people).
+--file: ld-uplift-1-p4-p2-r80-1-temporary.bed +
+ld-uplift-1-p4-p2-r80-1-temporary.bim + ld-uplift-1-p4-p2-r80-1-temporary.fam
+written.
+7799 variants loaded from .bim file.
+131 people (0 males, 0 females, 131 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to ld-uplift-1-p4-p2-r80-1.nosex .
+Using up to 71 threads (change this with --threads).
+Before main variant filters, 131 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.805142.
+7799 variants and 131 people pass filters and QC.
+Note: No phenotypes present.
+--r2 to ld-uplift-1-p4-p2-r80-1.ld ... done.
+
+End time: Fri Mar 19 13:14:47 2021

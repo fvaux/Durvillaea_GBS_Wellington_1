@@ -1,0 +1,31 @@
+PLINK v1.90b6.16 64-bit (19 Feb 2020)
+Options in effect:
+  --allow-extra-chr
+  --file cook-3-p6-p4-r70-1.plink
+  --ld-window-r2 0.8
+  --out cook-3-p6-p4-r70-1-ld
+  --r2
+
+Hostname: wbn073
+Working directory: /scale_wlg_nobackup/filesets/nobackup/uoo02915/PLINK
+Start time: Tue Mar  9 13:05:22 2021
+
+Random number seed: 1615248322
+128824 MB RAM detected; reserving 64412 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (8849 variants, 189 people).
+--file: cook-3-p6-p4-r70-1-ld-temporary.bed +
+cook-3-p6-p4-r70-1-ld-temporary.bim + cook-3-p6-p4-r70-1-ld-temporary.fam
+written.
+8849 variants loaded from .bim file.
+189 people (0 males, 0 females, 189 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to cook-3-p6-p4-r70-1-ld.nosex .
+Using up to 71 threads (change this with --threads).
+Before main variant filters, 189 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.816179.
+8849 variants and 189 people pass filters and QC.
+Note: No phenotypes present.
+--r2 to cook-3-p6-p4-r70-1-ld.ld ... done.
+
+End time: Tue Mar  9 13:05:22 2021
