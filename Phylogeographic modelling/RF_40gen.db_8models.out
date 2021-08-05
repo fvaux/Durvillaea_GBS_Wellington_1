@@ -1,0 +1,52 @@
+Growing trees.. Progress: 0%. Estimated remaining time: 2 hours, 8 minutes, 39 seconds.
+Growing trees.. Progress: 17%. Estimated remaining time: 5 minutes, 3 seconds.
+Growing trees.. Progress: 33%. Estimated remaining time: 3 minutes, 12 seconds.
+Growing trees.. Progress: 47%. Estimated remaining time: 2 minutes, 23 seconds.
+Growing trees.. Progress: 60%. Estimated remaining time: 1 minute, 44 seconds.
+Growing trees.. Progress: 72%. Estimated remaining time: 1 minute, 12 seconds.
+Growing trees.. Progress: 87%. Estimated remaining time: 33 seconds.
+Warning message:
+In lda.default(x, grouping, ...) : variables are collinear
+
+Call:
+ abcrf(formula = Models ~ ., data = Trainingdata, ntree = ntrees, paral = TRUE) 
+includes the axes of a preliminary LDA
+
+Number of simulations: 80000
+Out-of-bag prior error rate: 21.5837%
+
+Confusion matrix:
+             model_1_MSFS model_2_MSFS model_3_MSFS model_4_MSFS model_5_MSFS
+model_1_MSFS         8244          104          179          336            7
+model_2_MSFS           89         9073          296          339           13
+model_3_MSFS          233          310         8197          202           81
+model_4_MSFS          223          320          128         8964            3
+model_5_MSFS            4            1           66            7         9695
+model_6_MSFS            3            3            4           95          164
+model_7_MSFS         2625          182         2429          269           26
+model_8_MSFS         1285           19          328          182         2075
+             model_6_MSFS model_7_MSFS model_8_MSFS class.error
+model_1_MSFS            5         1070           55      0.1756
+model_2_MSFS            4          175           11      0.0927
+model_3_MSFS            3          915           59      0.1803
+model_4_MSFS           82          264           16      0.1036
+model_5_MSFS          131            3           93      0.0305
+model_6_MSFS         9624            0          107      0.0376
+model_7_MSFS            3         4271          195      0.5729
+model_8_MSFS          613          833         4665      0.5335
+Growing trees.. Progress: 0%. Estimated remaining time: 4 hours, 17 minutes, 49 seconds.
+Growing trees.. Progress: 9%. Estimated remaining time: 10 minutes, 7 seconds.
+Growing trees.. Progress: 19%. Estimated remaining time: 6 minutes, 40 seconds.
+Growing trees.. Progress: 26%. Estimated remaining time: 6 minutes, 2 seconds.
+Growing trees.. Progress: 35%. Estimated remaining time: 4 minutes, 56 seconds.
+Growing trees.. Progress: 42%. Estimated remaining time: 4 minutes, 20 seconds.
+Growing trees.. Progress: 50%. Estimated remaining time: 3 minutes, 38 seconds.
+Growing trees.. Progress: 58%. Estimated remaining time: 3 minutes, 0 seconds.
+Growing trees.. Progress: 67%. Estimated remaining time: 2 minutes, 23 seconds.
+Growing trees.. Progress: 75%. Estimated remaining time: 1 minute, 44 seconds.
+Growing trees.. Progress: 85%. Estimated remaining time: 1 minute, 2 seconds.
+Growing trees.. Progress: 95%. Estimated remaining time: 18 seconds.
+  selected model votes model1 votes model2 votes model3 votes model4
+1   model_3_MSFS           24           46          195           29
+  votes model5 votes model6 votes model7 votes model8 post.proba
+1           33           19           77           77     0.9651
