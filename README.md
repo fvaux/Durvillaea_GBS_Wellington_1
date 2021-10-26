@@ -25,10 +25,10 @@ R files for running loci filtering (e.g. loci coverage depth outliers) and popul
 Commands and files for conducting phylogeographic model selection in delimitR. Includes observed folded multidimensional site frequency spectrum (mSFS) input file for the Recolonisation dataset.
 
 # Sampling, and genotype and loci fasta files
-Full sample details (Appendix A), aupplementary mwethods, tables, and figures (Appendix B), GBS files (loci consensus sequences, genotype files, phylogenetic alignments, trees, and all commands and files provided on GitHub) are available on DataDryad: https://doi.org/XX.5061/dryad.X 
+Full sample details (Appendix A), aupplementary mwethods, tables, and figures (Appendix B), GBS files (loci consensus sequences, genotype files, phylogenetic alignments, trees, and all commands and files provided on GitHub) are available on DataDryad: hhttps://doi.org/10.5061/dryad.jdfn2z3bt
 
 # Demultiplexed reads
-Demultiplexed forward and reverse DNA sequence reads for the southern bull-kelp sequenced in this study are openly available on the NCBI sequence read archive (SRA) under: PRJNXXXXX, http://www.ncbi.nlm.nih.gov/bioproject/XXXXXX
+Demultiplexed forward and reverse DNA sequence reads for the southern bull-kelp sequenced in this study are openly available on the NCBI sequence read archive (SRA) under: PRJNA769149, http://www.ncbi.nlm.nih.gov/bioproject/PRJNA769149
 
 # Raw Illumina reads
 Available on request, and we're working to archive all southern bull kelp raw reads on NCBI in the near future.
