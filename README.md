@@ -27,7 +27,7 @@ Commands and files for conducting phylogeographic model selection in delimitR. I
 # Sampling, and genotype and loci fasta files
 Full sample details (Appendix A), supplementary tables and figures (Appendix B), GBS files (loci consensus sequences, genotype files, phylogenetic alignments, trees, and all commands and files provided on GitHub) are available on DataDryad: https://doi.org/10.5061/dryad.jdfn2z3bt
 
-The supplementary information (supplementary tables and figures; Appendix B) is also hosted with the main text: 
+The supplementary information (supplementary tables and figures; Appendix B) is also hosted with the main text: https://doi.org/10.1111/mec.16535
 
 # Demultiplexed reads
 Demultiplexed forward and reverse DNA sequence reads for the southern bull-kelp sequenced in this study are openly available on the NCBI sequence read archive (SRA) under: PRJNA769149, http://www.ncbi.nlm.nih.gov/bioproject/PRJNA769149
